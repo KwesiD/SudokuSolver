@@ -7,8 +7,9 @@ Author: Kwesi Daniel
 
 /**
 v1 - for testing
+Compares puzzle to answer 
 **/
-class Main{
+class Main-test{
 
 		public static void main(String[] args){
 		String puzzle;
